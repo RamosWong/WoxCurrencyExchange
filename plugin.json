@@ -1,0 +1,12 @@
+{
+  "ID":"d5d560775704442db31aa99ae7670248",
+  "ActionKeyword":"cx",
+  "Name":"Currency Exchange",
+  "Description":"Get currency exchange based on current rates",
+  "Author":"ronwong",
+  "Version":"0.0.1",
+  "Language":"csharp",
+  "Website":"http://www.google.com",
+  "IcoPath": "images\\wox-cx.png",              //Plugin icon, relative path to the pluign folder
+  "ExecuteFileName":"WoxCurrencyExchange.dll"   //Execution entry. Dll name for c# plugin, and python file for python plugin
+}
